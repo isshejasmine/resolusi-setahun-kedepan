@@ -1,0 +1,4 @@
+Aku mau belajar python nih:
+1. perlu pelajari dasar python
+2. perlu data structure
+3. OOP
