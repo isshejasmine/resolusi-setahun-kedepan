@@ -1,0 +1,4 @@
+Action item untuk jadi content creator:
+1. Bikin content youtube short tentang tutorial javascript dasar
+2. Bikin long video tentang website optimization
+3. Bikin tutorial git commands
